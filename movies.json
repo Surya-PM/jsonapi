@@ -1,4 +1,4 @@
-{"movies":[
+[
     {
       "name":"Inception",
       "rating":"IMDB  ⭐8.8",
@@ -47,4 +47,4 @@
       "pic":"https://duckduckgo.com/i/2bda01e5.jpg",
       "plot":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
     }
-  ]}
+  ]
