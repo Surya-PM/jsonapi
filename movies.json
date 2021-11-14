@@ -1,50 +1,66 @@
 [
-    {
-      "name":"Inception",
-      "rating":"IMDB  ⭐8.8",
-      "pic":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
-      "plot":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
-    },
-    {
-      "name":"The Matrix",
-      "rating":"IMDB  ⭐8.7",
-      "pic":"https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
-      "plot":"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
-    },
-    {
-      "name":"Avengers Endgame",
-      "rating":"IMDB  ⭐8.4",
-      "pic":"https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
-      "plot":"After the devastating events of Avengers: Infinity War (2018), With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
-    },
-    {
-      "name":"The Dark Knight",
-      "rating":"IMDB ⭐9.0",
-      "pic":"https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
-      "plot":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
-    },
-    {
-      "name":"The Wolverine",
-      "rating":"IMDB  ⭐6.7",
-      "pic":"https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
-      "plot":"Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants."
-    },
-    {
-      "name":"Avatar",
-      "rating":"IMDB  ⭐7.8",
-      "pic":"https://duckduckgo.com/i/57e6a140.jpg",
-      "plot":"A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
-    },
-    {
-      "name":"Fight Club",
-      "rating":"IMDB  ⭐8.7",
-      "pic":"https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
-      "plot":"An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
-    },
-    {
-      "name":"Interstellar",
-      "rating":"IMDB  ⭐8.6",
-      "pic":"https://duckduckgo.com/i/2bda01e5.jpg",
-      "plot":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
-    }
-  ]
+ {
+  "id": "100",
+  "name": "Interstellar",
+  "poster": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._SL1500_.jpg",
+  "rating": 8.6,
+  "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+  "summary": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans"
+ },
+ {
+  "id": "101",
+  "name": "Baah",
+  "poster": "https://flxt.tmsimg.com/assets/p11546593_p_v10_af.jpg",
+  "rating": 8,
+  "trailer": "https://www.youtube.com/embed/sOEg_YZQsTI",
+  "summary": "In the kingdom of Mahishmati, Shivudu falls in love with a young warrior woman. While trying to woo her, he learns about the conflict-ridden past of his family and his true legacy"
+ },
+ {
+  "id": "102",
+  "name": "Ratatouille",
+  "poster": "https://resizing.flixster.com/gL_JpWcD7sNHNYSwI1ff069Yyug=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzc4ZmJhZjZiLTEzNWMtNDIwOC1hYzU1LTgwZjE3ZjQzNTdiNy5qcGc=",
+  "rating": 8,
+  "trailer": "https://www.youtube.com/embed/NgsQ8mVkN8w",
+  "summary": "Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him"
+ },
+ {
+  "id": "103",
+  "name": "96",
+  "poster": "https://a10.gaanacdn.com/gn_img/albums/9En3peWXDV/En3pYMLPWX/size_xxl_1535086576.webp",
+  "rating": 8.6,
+  "trailer": "https://www.youtube.com/embed/r0synl-lI4I",
+  "summary": "K Ramachandran, a photographer, gets nostalgic after he visits his school in his hometown. During a reunion with his classmates, he meets Janaki, his childhood sweetheart"
+ },
+ {
+  "id": "104",
+  "name": "M.S. Dhoni: The Untold Story",
+  "poster": "https://m.media-amazon.com/images/I/71miTEyKvYL._SL1112_.jpg",
+  "rating": 7.9,
+  "trailer": "https://www.youtube.com/embed/G2zb_nbrnyU",
+  "summary": "M S Dhoni, a boy from Ranchi, aspires to play cricket for India. Though he initially tries to please his father by working for the Indian Railways, he ultimately decides to chase his dreams"
+ },
+ {
+  "name": "Fight Club",
+  "poster": "https://mypostercollection.com/wp-content/uploads/2018/07/Fight-Club-MyPosterCollection.com-1-683x1024.jpg",
+  "rating": "8.8",
+  "trailer": "https://www.youtube.com/embed/qtRKdVHc-cE",
+  "summary": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+  "id": "105"
+ },
+ {
+  "name": "Avengers: Endgame",
+  "poster": "https://buzz.tt/media/posters/2384/posters_4_1500.jpg",
+  "rating": "8.4",
+  "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c",
+  "summary": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+  "id": "106"
+ },
+ {
+  "name": "Soorarai Pottru",
+  "poster": "https://www1.bollymint.com/wp-content/uploads/2020/11/Soorarai-Pottru-2020-Multi-Audio-720p-HDRip-ESubs-1.4GB-Download.jpg",
+  "rating": "9.1",
+  "trailer": "https://www.youtube.com/embed/fa_DIwRsa9o",
+  "summary": "Nedumaaran Rajangam \"Maara\" sets out to make the common man fly and in the process takes on the world's most capital intensive industry and several enemies who stand in his way.",
+  "id": "107"
+ }
+]
